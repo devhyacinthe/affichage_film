@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085640411047",
+    "project_id": "stateful-25009",
+    "storage_bucket": "stateful-25009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085640411047:android:68e2d26277d4f79d581882",
+        "android_client_info": {
+          "package_name": "com.example.stateful_affichage_film"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085640411047-ucjscspb3n5mjr1466h7f8r2otnlvjov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRRE5cGiHYwl4bA1ICQLXIubKTUyXtuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085640411047-ucjscspb3n5mjr1466h7f8r2otnlvjov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
